@@ -3,7 +3,7 @@
           1 2 3 4
           1 2 3 4
           1 2 3 4  */
-class Pattern1
+class Pattern2
 {
     public static void main(String args[])
     {
