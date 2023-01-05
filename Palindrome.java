@@ -8,13 +8,14 @@ public class Palindrome
         System.out.println("Enter a string:");
         String str=sc.nextLine();
         str=str.toLowerCase();
+        str=str.trim();
+        String temp=str;
         String rev="";
         for(int i=str.length()-1;i>=0;i--)
         {
             rev=rev+str.charAt(i);
         }
-        System.out.println(rev);
-        if(rev==str)
+        if(temp.equals(rev))
          System.out.println("Palindrome String.");
           else
          System.out.println("Not a Palindrome String.");
