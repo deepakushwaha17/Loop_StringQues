@@ -9,7 +9,7 @@ class LetterTemplate
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the name :");
         String str=sc.nextLine();  
-        String letter="Dear <|name|>,Thanks a lot";
+        String letter="Dear <|name|>,Thanks a lot" ;
         String replace=letter.replace("<|name|>",str);
         System.out.println("Original letter is : \"Dear <|name|>,Thanks a lot\"");
         System.out.println("Letter after replacing <|name|> with some name is :"+replace);
