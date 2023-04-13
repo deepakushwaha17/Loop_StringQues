@@ -15,6 +15,6 @@ public class ReversedNum
             n=n+a;
             num/=10;  
         }
-        System.out.println("Reversed number is:"+n);
+        System.out.println("Reversed number is:" +n);
     }
 }
