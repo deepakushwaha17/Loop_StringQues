@@ -19,6 +19,6 @@ public class Website
         else if(str.endsWith(".in"))
             System.out.println("Entered URL is an indian website");
         else   
-            System.out.println("Entered URL is a some other website");
+            System.out.println("Entered URL is a some other website ");
     }
 }
