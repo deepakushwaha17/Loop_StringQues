@@ -19,3 +19,4 @@ class DetectSpaces
         System.out.println("Total no. of double and triple spaces in string are: "+count);  
     }
 }
+
