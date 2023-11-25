@@ -1,4 +1,5 @@
 // Program to open notepad through command with vs code.
+
 class Notepad
 {
     public static void main(String[] args) 
