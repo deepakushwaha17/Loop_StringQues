@@ -1,4 +1,5 @@
 //Program to detect double and triple spaces in a string.
+
 import java.util.*;
 class DetectSpaces 
 {
