@@ -3,6 +3,7 @@
           2 2 2 2
           3 3 3 3
           4 4 4 4  */
+
 class Pattern1
 {
     public static void main(String args[])
