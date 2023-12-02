@@ -1,7 +1,8 @@
-import java.util.Scanner;
 
 /*Program to format the following letter using escape sequence characters.
         Letter = “Dear Sir, This Java Course is nice. Thanks”   */
+
+import java.util.Scanner;
 class EscapeSeq 
 {
     public static void main(String[] args) 
