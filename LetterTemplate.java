@@ -1,6 +1,7 @@
 /* Program to fill in a letter template which looks like below: 
                 letter="Dear <|name|>,Thanks a lot"
                 Replace=<|name|> with a string (some name)   */
+
 import java.util.*;
 class LetterTemplate 
 {
