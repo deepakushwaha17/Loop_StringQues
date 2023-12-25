@@ -6,6 +6,7 @@
            E E E E E
            F F F F F
  */
+
 public class Pattern9
 {
     public static void main(String[] args) 
