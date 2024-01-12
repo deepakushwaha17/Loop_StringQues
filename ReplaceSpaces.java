@@ -1,4 +1,4 @@
-Program to reverse the string.
+//Program to reverse the string.
 
 import java.util.*;
 class ReplaceSpaces 
