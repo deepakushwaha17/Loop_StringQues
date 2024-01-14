@@ -1,5 +1,4 @@
 //Program to convert a string to lowercase.
-
 import java.util.*;
 class Lowercase
 {
