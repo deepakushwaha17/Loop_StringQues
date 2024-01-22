@@ -1,4 +1,5 @@
-//Program to count vowels,consonants,spaces and special character 
+//Program to count vowels,consonants,spaces and special character .
+
 import java.util.*;
 public class Vowels 
 {
