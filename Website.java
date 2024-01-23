@@ -2,8 +2,8 @@
 	.com – commercial website
 	.org – organization website
 	.in – Indian website           */
-import java.util.*;
 
+import java.util.*;
 import javax.lang.model.util.ElementScanner14;    
 public class Website 
 {
