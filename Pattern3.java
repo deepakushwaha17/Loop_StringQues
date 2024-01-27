@@ -4,6 +4,7 @@
             5 5 5 
             7 7 7 7
             9 9 9 9 9*/
+
 class Pattern3 
 {
     public static void main(String[] args) 
