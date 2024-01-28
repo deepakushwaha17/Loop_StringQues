@@ -6,6 +6,7 @@
           A B C D E 
           A B C D E F
  */
+
 public class Pattern10 
 {
     public static void main(String[] args) 
