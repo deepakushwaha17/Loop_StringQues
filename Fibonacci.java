@@ -1,4 +1,4 @@
-/*- Number is series 1 1 2 3 5 8 13.....(Fibonacci series). Program which enter the number of term and 
+/*Number is series 1 1 2 3 5 8 13.....(Fibonacci series). Program which enter the number of term and 
 that many term of series should be generated and print it. */
 
 import java.util.*;
