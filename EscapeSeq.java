@@ -1,4 +1,3 @@
-
 /*Program to format the following letter using escape sequence characters.
         Letter = “Dear Sir, This Java Course is nice. Thanks”   */
 
